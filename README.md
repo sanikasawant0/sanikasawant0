@@ -52,6 +52,24 @@ I enjoy building practical applications using Python, Generative AI, and Large L
 
 ## 🚀 Featured Projects
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanikasawant0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikasawant0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikasawant0&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ### 1. Idea Feasibility Checker & Market Predictor
 AI-powered application that evaluates startup ideas using Gemini API and prompt engineering.
 
